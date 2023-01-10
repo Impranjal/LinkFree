@@ -1,0 +1,30 @@
+{
+  "name": "Pranjal Singh",
+  "displayStatsPublic": true,
+  "type": "personal",
+  "bio": "Software engineer,intrested in tech ,enjoys watching mma",
+  "avatar": "https://github.com/Impranjal.png",
+  "links": [
+    {
+      "name": "Follow me on Twitter",
+      "url": "https://twitter.com/pranjal_003",
+      "icon": "FaTwitter"
+    }
+    {
+      "name": "Follow me on github",
+      "url": "https://github.com/Impranjal",
+      "icon": "FaGithub"
+    }
+    {
+      "name": "Follow me on LinkedIn",
+      "url": "https://www.linkedin.com/in/pranjal-singh-442680146/",
+      "icon": "FaLinkedin"
+    }
+    {
+      "name": "Follow me on Instagram",
+      "url": "https://www.instagram.com/singhp_23/",
+      "icon": "FaInstagram"
+    }
+    
+  ]
+}
